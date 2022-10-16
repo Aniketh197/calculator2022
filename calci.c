@@ -33,6 +33,7 @@ int main()
         default:
             printf("Invalid operator");
     }
-    return 0;
+    printf("THANK YOU")
+;    return 0;
 }
 
