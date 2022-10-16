@@ -14,6 +14,7 @@ int main()
     // The user has to enter the second number 
     printf("Enter the second number: ");
     scanf("%d",&b);
+    // The user has to enter the type of operation
     printf("Enter the operator: ");
     scanf(" %c",&c);
     switch(c)
